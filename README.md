@@ -9,9 +9,9 @@ Logistic regression is a statistical analysis method to predict a binary outcome
 Here I have considered 0 or No to be a normal transaction and 1 or Yes to be a Fraudulent transaction.<br>
 The main libraries that are used in the project are:
 <ol> 
-  <li>1. Numpy
-  <li>2. Pandas
-  <li>3. Seaborn
-  4. MatPlotLib
-  5. Sklearn
+  <li> Numpy
+  <li> Pandas
+  <li> Seaborn
+  <li> MatPlotLib
+  <li> Sklearn
 </ol>
