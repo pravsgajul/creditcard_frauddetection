@@ -10,7 +10,7 @@ Here I have considered 0 or No to be a normal transaction and 1 or Yes to be a F
 The main libraries that are used in the project are:
 <ol> 1. Numpy
 <ol>2. Pandas
-3. Seaborn
-4. MatPlotLib
-5. Sklearn
+<ol>3. Seaborn
+<ol>4. MatPlotLib
+<ol>5. Sklearn
 </ol>
